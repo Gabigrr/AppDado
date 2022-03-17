@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppDado</string>
+    <string name="numDado">TextView</string>
+    <string name="gireDado">Gire o dado</string>
+    <string name="imageDado">TODO</string>
+    <string name="gire_o_dado">6</string>
+    <string name="gireDado">Gire o dado</string>
+    <string name="girarDado1">Girar dado até 6</string>
+    <string name="girarDado2">Girar dado até 12</string>
+    <string name="girarDado3">Girar dado até 20</string>
+</resources>
